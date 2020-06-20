@@ -818,11 +818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ApplicationFocusAPI\\DomainFocusAPI\\DomainFocusAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\FocusAPI\\DomainFocusAPI\\DomainFocusAPI.csproj",
       "projectName": "DomainFocusAPI",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\ApplicationFocusAPI\\DomainFocusAPI\\DomainFocusAPI.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\FocusAPI\\DomainFocusAPI\\DomainFocusAPI.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\ApplicationFocusAPI\\DomainFocusAPI\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\FocusAPI\\DomainFocusAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

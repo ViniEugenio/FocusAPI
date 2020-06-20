@@ -3,3 +3,8 @@ C:\Users\Usuario\Desktop\ApplicationFocusAPI\DomainFocusAPI\bin\Debug\netcoreapp
 C:\Users\Usuario\Desktop\ApplicationFocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.csprojAssemblyReference.cache
 C:\Users\Usuario\Desktop\ApplicationFocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.AssemblyInfoInputs.cache
 C:\Users\Usuario\Desktop\ApplicationFocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\FocusAPI\DomainFocusAPI\bin\Debug\netcoreapp3.1\DomainFocusAPI.deps.json
+C:\Users\Usuario\Source\Repos\FocusAPI\DomainFocusAPI\bin\Debug\netcoreapp3.1\DomainFocusAPI.dll
+C:\Users\Usuario\Source\Repos\FocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\FocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\FocusAPI\DomainFocusAPI\obj\Debug\netcoreapp3.1\DomainFocusAPI.AssemblyInfo.cs
