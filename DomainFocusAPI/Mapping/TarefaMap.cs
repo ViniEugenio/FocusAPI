@@ -7,7 +7,7 @@ using System.Text;
 
 namespace DomainFocusAPI.Mapping
 {
-    class TarefaMap : IEntityTypeConfiguration<Tarefa>
+    public class TarefaMap : IEntityTypeConfiguration<Tarefa>
     {
         public void Configure(EntityTypeBuilder<Tarefa> builder)
         {
