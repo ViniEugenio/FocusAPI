@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationFocusAPI", "ApplicationFocusAPI\ApplicationFocusAPI.csproj", "{7A608113-333D-4317-844B-15960D382EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainFocusAPI", "DomainFocusAPI\DomainFocusAPI.csproj", "{59B43DB5-C835-45A1-82DB-BE70D2BDC9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A608113-333D-4317-844B-15960D382EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A608113-333D-4317-844B-15960D382EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A608113-333D-4317-844B-15960D382EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A608113-333D-4317-844B-15960D382EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B43DB5-C835-45A1-82DB-BE70D2BDC9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B43DB5-C835-45A1-82DB-BE70D2BDC9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B43DB5-C835-45A1-82DB-BE70D2BDC9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B43DB5-C835-45A1-82DB-BE70D2BDC9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {438F3B50-E371-49E8-8D3D-E17690CD1EE0}
+	EndGlobalSection
+EndGlobal
