@@ -1,10 +1,7 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using DomainFocusAPI.Models;
+using InfraFocusAPI.Mapping;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using DomainFocusAPI.Models;
-using DomainFocusAPI.Mapping;
 
 namespace InfraFocusAPI.Data
 {

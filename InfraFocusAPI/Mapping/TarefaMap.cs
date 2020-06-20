@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DomainFocusAPI.Mapping
+namespace InfraFocusAPI.Mapping
 {
     public class TarefaMap : IEntityTypeConfiguration<Tarefa>
     {
